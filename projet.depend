@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1737209307 source:c:\users\lenovo\desktop\projet\rat.c
+
+1737223024 source:c:\users\lenovo\desktop\projet\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
